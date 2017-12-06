@@ -208,3 +208,5 @@ switch  (education) {
 
 Output:
 In 2015, a person with no high school diploma earned an average of $25,636/year.
+
+
